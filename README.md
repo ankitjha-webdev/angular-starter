@@ -133,14 +133,4 @@ To maintain a clean and well-documented version history, follow these guidelines
 
 By adhering to these guidelines, we can maintain a well-organized and collaborative development environment. If you have any questions or encounter issues, please refer to this documentation or reach out to the project team.
 
-## Issues with Husky?
-
-If you are experiencing difficulties while committing or pushing your solution, we recommend checking Issue #5 or the issues in the Husky repository for a more detailed understanding of reported problems.
-
-Husky plays a crucial role in code quality control, and issues related to it can impact the development workflow. Make sure to review discussions in the issues to find solutions or relevant information about any specific problem you might be facing.
-
-Remember, transparent and collaborative communication is key to overcoming challenges and continuously improving the development environment. We are here to help ensure a positive experience with the Angular V17 Template.
-
----
-
 Feel free to tailor this draft to fit the specifics of your project and documentation style.
